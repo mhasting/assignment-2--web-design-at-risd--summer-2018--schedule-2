@@ -49,4 +49,9 @@ section {
 
 section:nth-child(odd) {
    background-color: black;
-   }
+}
+
+section:nth-child(3) {
+   background-image: url("../img/dawn-of-midi-background.jpg");
+   background-size: cover;
+}
