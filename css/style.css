@@ -1,0 +1,47 @@
+* {
+   margin: 0;
+   padding: 0;
+   color: black;
+}
+
+section {
+   height: 730px;
+}
+
+section p {
+   text-align: center;
+   color: white;
+    padding: 28px;
+    font-size: 3.1rem; /* Initial/default: 16px or 1em; */
+line-height: .9; /* Initial/default: normal, or about 1.2 */
+font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+#tracks {
+   padding: 100px;
+   color: black;
+   text-align: right;
+}
+#guardian {
+
+   margin:0 0 0 300px;
+}
+#texto {
+   margin: 100px;
+padding: 60px;
+color: white;
+text-align:justify;
+
+}
+img {
+   margin: auto;
+}
+
+section {
+   color: black;
+   text-align: center;
+}
+
+section:nth-child(odd) {
+   background-color: black;
+   }
