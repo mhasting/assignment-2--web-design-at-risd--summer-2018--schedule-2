@@ -14,23 +14,28 @@ section p {
     padding: 28px;
     font-size: 3.1rem; /* Initial/default: 16px or 1em; */
 line-height: .9; /* Initial/default: normal, or about 1.2 */
-font-family: 'Roboto', Arial, Helvetica, sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+
 }
 
 #tracks {
    padding: 100px;
    color: black;
    text-align: right;
+   font-family: 'Source Sans Pro', sans-serif;
 }
 #guardian {
 
    margin:0 0 0 300px;
+   font-family: 'Source Sans Pro', sans-serif;
 }
 #texto {
    margin: 100px;
 padding: 60px;
 color: white;
 text-align:justify;
+font-family: 'Source Sans Pro', sans-serif;
+line-height: 1.1
 
 }
 img {
